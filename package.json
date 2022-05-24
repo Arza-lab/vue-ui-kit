@@ -1,6 +1,10 @@
 {
   "private": true,
   "packageManager": "pnpm@7.0.0",
+  "author": {
+    "name": "Maurice Schwarz",
+    "email": "maurice.schwarz.dev@gmail.com"
+  },
   "scripts": {
     "build": "vite build",
     "dev": "vite --port 3333 --open",
